@@ -13,4 +13,4 @@ Model: AlexNet
 https://www.kaggle.com/puneet6060/intel-image-classification
 
 ## Trained model
-model_trainloss_validloss.pt
+model.pt
